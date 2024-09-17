@@ -1,11 +1,12 @@
 import { Route, Routes } from 'react-router-dom';
 import { Home, Map, File, Factory } from '../pages/index';
 import { SideBar } from '../components';
+import style from './index.module.scss'
 
 export const AppRouter = () => (
-  <div style={{ display: 'flex' }}>
+  <div className={style.wrapper}>
     <SideBar />
-    <div style={{ width: '100%' }}>
+    <div className={style.wrapper__right}>
       <Routes>
         <Route element={<Home />} path="/" />
         <Route element={<Map />} path="/map" />
