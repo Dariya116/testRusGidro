@@ -10,7 +10,7 @@ import volga from '../../data//mock_volga.json';
 export const Home = () => {
   return (
     <>
-      <TopMenu title="Анализ по РГЕ" />
+      <TopMenu title="Расчет показателей" />
       <div className={style.charts}>
         <ChartLine title="Региональные выбросы ОЭС Северо-Запада" dataSource={northwest} />
         <ChartLine title="Региональные выбросы ОЭС Центра" dataSource={center} />
