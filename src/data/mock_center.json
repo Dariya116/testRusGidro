@@ -1,0 +1,66 @@
+[
+  {
+    "label": "илн. 02 00:00",
+    "novgorod": 45,
+    "karelia": 35,
+    "pskov": 110,
+    "murmansk": 115,
+    "leningrad": 57
+  },
+  {
+    "label": "06:00",
+    "novgorod": 32,
+    "karelia": 43,
+    "pskov": 134,
+    "murmansk": 225,
+    "leningrad": 255
+  },
+  {
+    "label": "12:00",
+    "novgorod": 32,
+    "karelia": 43,
+    "pskov": 160,
+    "murmansk": 328,
+    "leningrad": 250
+  },
+  {
+    "label": "18:00",
+    "novgorod": 32,
+    "karelia": 50,
+    "pskov": 134,
+    "murmansk": 238,
+    "leningrad": 250
+  },
+  {
+    "label": "илл. 02 00:00",
+    "novgorod": 25,
+    "karelia": 40,
+    "pskov": 143,
+    "murmansk": 210,
+    "leningrad": 325
+  },
+  {
+    "label": "06:00",
+    "novgorod": 26,
+    "karelia": 43,
+    "pskov": 165,
+    "murmansk": 328,
+    "leningrad": 328
+  },
+  {
+    "label": "12:00",
+    "novgorod": 25,
+    "karelia": 52,
+    "pskov": 175,
+    "murmansk": 250,
+    "leningrad": 250
+  },
+  {
+    "label": "18:00",
+    "novgorod": 26,
+    "karelia": 55,
+    "pskov": 177,
+    "murmansk": 270,
+    "leningrad": 255
+  }
+]
